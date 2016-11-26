@@ -14,7 +14,7 @@
     <string name="login_progress">Ingresando&#8230;</string>
 
     <!-- MainActivity -->
-    <string name="nueva_venta">Cargar Nueva Venta</string>
+    <string name="nuevo_pedido">Cargar Nuevo Pedido</string>
     <string name="geolocalizar_cliente">Geolocalizar un Cliente</string>
     <string name="fotografiar_cliente">Fotografia un Cliente</string>
     <string name="ver_ubicacion_cliente">Ver Ubicación de Cliente</string>
@@ -23,7 +23,6 @@
     <string name="actualizar">Actualizar</string>
     <string name="buscar">Buscar...</string>
     <string name="atras">Volver</string>
-    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_ver_imagen">VerImagenActivity</string>
 

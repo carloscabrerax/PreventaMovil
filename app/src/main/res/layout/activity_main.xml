@@ -27,13 +27,13 @@
                     android:id="@+id/image_view_nueva_compra"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:src="@drawable/ic_venta" />
+                    android:src="@android:drawable/ic_menu_add" />
 
                 <Button
                     android:id="@+id/button_nueva_venta"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/nueva_venta" />
+                    android:text="@string/nuevo_pedido" />
             </LinearLayout>
 
             <LinearLayout
@@ -48,7 +48,7 @@
                     android:id="@+id/image_view_localizar_cliente"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:src="@drawable/ic_globe" />
+                    android:src="@android:drawable/ic_menu_mylocation" />
 
                 <Button
                     android:id="@+id/button_geolocalizar_cliente"
@@ -69,7 +69,7 @@
                     android:id="@+id/image_view_fotografiar_cliente"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:src="@drawable/ic_camara" />
+                    android:src="@android:drawable/ic_menu_camera" />
 
                 <Button
                     android:id="@+id/button_fotografiar_cliente"
@@ -90,7 +90,7 @@
                     android:id="@+id/image_view_ver_ubicacion_cliente"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:src="@drawable/ic_ruta" />
+                    android:src="@android:drawable/ic_menu_view" />
 
                 <Button
                     android:id="@+id/button_ver_ubicacion_cliente"
@@ -111,7 +111,7 @@
                     android:id="@+id/image_view_fotografia_cliente"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
-                    android:src="@drawable/ic_cliente" />
+                    android:src="@android:drawable/ic_menu_gallery" />
 
                 <Button
                     android:id="@+id/button_ver_fotografia_cliente"
