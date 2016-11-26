@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Preventa Móvil</string>
+    <string name="app_version">1.0.0</string>
+
+    <!-- login -->
+    <string name="prompt_nombre_usuario">Nombre de Usuario</string>
+    <string name="prompt_contrasenha">Contraseña</string>
+    <string name="action_login"><b>Ingresar</b></string>
+    <string name="error_login_incorrecto">Nombre de Usuario/Contraseña no válidos&#8230;</string>
+    <string name="error_nombre_usuario_requerido">Debe ingresar su nombre de usuario</string>
+    <string name="error_contrasenha_requerida">Debe ingresar su contraseña</string>
+    <string name="login_progress">Ingresando&#8230;</string>
+
+    <!-- MainActivity -->
+    <string name="nueva_venta">Cargar Nueva Venta</string>
+    <string name="geolocalizar_cliente">Geolocalizar un Cliente</string>
+    <string name="fotografiar_cliente">Fotografia un Cliente</string>
+    <string name="ver_ubicacion_cliente">Ver Ubicación de Cliente</string>
+    <string name="ver_fotografia_cliente">Ver Fotografía de Cliente</string>
+    <string name="salir">Salir</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="buscar">Buscar...</string>
+    <string name="atras">Volver</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_ver_imagen">VerImagenActivity</string>
+
+    <string name="cliente">Cliente:</string>
+    <string name="ruc">RUC:</string>
+    <string name="total">Total:</string>
+    <string name="producto">Producto</string>
+    <string name="cantidad">Cant.</string>
+    <string name="precio">Precio</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="guardar">Guardar</string>
+    <string name="title_activity_verubicacion">Map</string>
+
+</resources>
+
