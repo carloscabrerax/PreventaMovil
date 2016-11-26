@@ -4,7 +4,7 @@ import android.location.Location;
 import android.location.LocationListener;
 import android.os.Bundle;
 
-
+//Hola
 public class GeolocalizarClienteActivity implements LocationListener {
     @Override
     public void onLocationChanged(Location location) {
