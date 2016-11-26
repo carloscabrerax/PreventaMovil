@@ -17,7 +17,8 @@ import com.fullstack.android.preventamovil.R;
  * Created by Jhony on 27/10/2016.
  */
 
-public class LoginActivity extends AppCompatActivity {
+public class
+LoginActivity extends AppCompatActivity {
 
     private String mNombreUsuario;
     private String mContrasenha;
