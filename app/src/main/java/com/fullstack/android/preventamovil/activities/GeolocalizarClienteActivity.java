@@ -16,4 +16,5 @@ public class GeolocalizarClienteActivity implements LocationListener {
     @Override
     public void onProviderDisabled(String provider) {
     }
+
 }
